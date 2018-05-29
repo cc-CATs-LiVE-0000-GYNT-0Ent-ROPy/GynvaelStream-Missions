@@ -1,7 +1,8 @@
 # Mission 23 - GynvaelStream - solver v3
 # https://www.youtube.com/watch?v=X7j2sisMKzk
+# this is only decryption part
 
-#Another Solver in C# by Paweł Łukasik vel pawlos
+#Another Solver in C# by Paweł Łukasik vel pawlos (with full writeup)
 #https://ctfs.ghost.io/gynvael-en-mission-023-solution/
 
 #encrypt with AES in python using pycrypto lib
